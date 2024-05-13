@@ -2,10 +2,9 @@
 #
 #
 
-dist
+
 
 # dependencies
-/node_modules
 /e2e-lambdatest/node_modules/
 /e2e-lambdatest/.yarn/
 /.pnp
@@ -86,6 +85,5 @@ packages/circuits/tests/compiled-test-circuits/*
 
 *.tsbuildinfo
 
-**/node_modules
 **/build
 tsconfig.tsbuildinfo
